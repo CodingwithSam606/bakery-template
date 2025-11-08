@@ -42,7 +42,7 @@ project-folder/
 
 ## 🚀 How to Run Locally
 1. Clone this repository:
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone[ https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/CodingwithSam606/bakery-template.git)
 
 2. Open `index.html` in your browser.
 
