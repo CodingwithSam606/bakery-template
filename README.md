@@ -46,6 +46,10 @@ git clone[ https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/Co
 
 2. Open `index.html` in your browser.
 
+<img width="1366" height="768" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/275fc574-652b-4775-aea9-9740c785276a" />
+
+<img width="1366" height="768" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/9f136913-f6b8-4ae0-b8f0-f91179154c04" />
+
 ## 🎨 Customization
 Feel free to replace images inside the **/images** folder to reflect your own bakery products.
 
