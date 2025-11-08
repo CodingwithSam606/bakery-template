@@ -1,1 +1,53 @@
-# bakery-template
+# Bakery Website template
+
+A modern and responsive bakery website showcasing different cakes, bakers, and information about the brand. Designed with clean UI and smooth user experience.
+
+## 🍰 Pages Included
+| Page | Description |
+|------|-------------|
+| `index.html` | Homepage (hero, featured cakes, CTA) |
+| `cakes.html` | Display of all cakes available |
+| `about.html` | Information about the bakery |
+| `bakers.html` | Profile of the bakers / team |
+
+## 🧁 Features
+- Fully responsive layout
+- Image gallery and product display
+- Smooth hover animations on cakes
+- Mobile-friendly navigation
+- Professional UI styling
+
+## 📁 Folder Structure
+project-folder/
+│
+├── index.html
+├── about.html
+├── cakes.html
+├── bakers.html
+│
+├── style.css
+│
+├── /images
+│ └── (cake and bakery images)
+│
+└── /js
+└── (JavaScript files)
+
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript 
+- Google Fonts
+
+## 🚀 How to Run Locally
+1. Clone this repository:
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+
+2. Open `index.html` in your browser.
+
+## 🎨 Customization
+Feel free to replace images inside the **/images** folder to reflect your own bakery products.
+
+## ✨ Author
+Samuel Asalu
